@@ -4,7 +4,7 @@
   "description": "",
   "main": "script.js",
   "scripts": {
-    "build": " browserify script.js > bundle.js && live-server"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
@@ -15,8 +15,5 @@
   "bugs": {
     "url": "https://github.com/Rom-Kothadia/Backgroun-Generator/issues"
   },
-  "homepage": "https://github.com/Rom-Kothadia/Backgroun-Generator#readme",
-  "dependencies": {
-    "lodash": "^4.17.21"
-  }
+  "homepage": "https://github.com/Rom-Kothadia/Backgroun-Generator#readme"
 }
